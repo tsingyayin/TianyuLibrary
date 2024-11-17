@@ -1,0 +1,4 @@
+name: TianyuLibrary
+version: '${version}'
+main: cn.yxgeneral.weavestudio.tianyulibrary.TianyuLibrary
+api-version: '1.20'
